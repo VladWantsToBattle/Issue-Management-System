@@ -1,2 +1,2 @@
 # Issue-Management-System
-Desktop application created on C#. 
+Desktop application created on C# and SQLite. 
